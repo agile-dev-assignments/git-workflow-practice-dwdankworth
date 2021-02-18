@@ -10,3 +10,6 @@ In my previous internship, this came up often in conversations with program mana
 
 ## Comments by Larry Langman
 I definatly agree with your perspective as well as that of the article. The application of Agile to Data Science would certainly decrease uncertainty in the entire process of data science. It is certainly a difficult task to break up Data Science projects into the equivalent of sprints, after all, each project is different. I wonder if a standardized application of Agile to Data Science will ever be created. While each firm may have its own methods, it would be interesting if there could be one agreed upon and standardized Agile for Data Science would surface that would then be taught at institutions such as NYU.
+
+## Comments by Allyson Chan
+I think that using Agile methods for Data Science projects would definetely make it so that managing these projects would become much more efficient. The article you posted is very informative on how the process could look if Aglie was applied to Data Science and also has notes on the nuances of it's use. 
